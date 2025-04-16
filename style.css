@@ -1,0 +1,54 @@
+*{
+    margin: 20px;
+    padding: 0px;
+}
+body{
+    background-color:rgba(52, 60, 86, 1)
+   
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.dad{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: red;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+.gigi{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bola{
+    width: 264px;
+height: 118px;
+top: 453px;
+left: 588px;
+border-radius: 40px;
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 470px;
+}
+.div{
+    width: 400px;
+height: 200px;
+border-radius: 50px;
+background-color: red;
+
+}
+.quti{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(35, 226, 35);
+margin: 50px;
+text-align: center;
+}
